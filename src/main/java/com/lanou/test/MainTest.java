@@ -8,7 +8,9 @@ public class MainTest {
         System.out.println("hahaha");
 
 
-
+        Integer a = 20;
+        a++;
+        System.out.println(a);
 
         System.out.println("别睡觉, 会死!");
     }
