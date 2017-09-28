@@ -13,5 +13,9 @@ public class MainTest {
         System.out.println(a);
 
         System.out.println("别睡觉, 会死!");
+
+
+        Integer b = 3333;
+
     }
 }
